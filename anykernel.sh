@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Fussion Kernel for Redmi note 4/4x mido by Alone0316 @xda-developers
+kernel.string=ZAxis Kernel for Redmi note 4/4x mido by ZEUTS @xda-developers
 do.devicecheck=1
 do.modules=0
 do.systemless=0
